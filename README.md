@@ -177,3 +177,74 @@ algoritmo deverá cessar sua execução.
 verifica se ele é um número triangular. Obs.: Um número é triangular quando
 ele é o resultado do produto de três números consecutivos. Exemplo: 24 = 2 x 3
 x 4.
+
+## Lista 04
+1. Somar todos os elementos da linha i
+
+
+2. Somar todos os elementos da coluna j
+
+
+3. Trocar todos os elementos da linha i por elementos de um vetor
+
+
+4. Trocar todos os elementos da coluna j por elementos de um vetor
+
+
+5. Trocar todos os elementos da coluna j com todos os elementos da coluna k
+
+
+6. Suponha duas matrizes: A e B. Subtrair A-B
+
+
+7. Suponha duas matrizes A e B. Multiplique A*B
+
+
+8. Calcule o determinante da matriz A
+
+
+9. Qual o maior e menor valor da matriz A
+
+
+10. Procure um determinado valor na matriz A
+
+
+11. Troque a diagonal principal pela diagonal secundária
+
+
+## Lista 05
+1. Escreva um algoritmo para ler 2 valores e imprimir o resultado da divisão do
+primeiro pelo segundo. Se o segundo valor informado for ZERO, deve ser lido
+um novo valor.
+
+
+2. Ler um número indeterminado de dados, contendo cada um, a idade de um
+indivíduo. O último dado, que não entrará nos cálculos, contém o valor de
+idade igual a ZERO. Calcular e imprimir a idade média deste grupo de
+indivíduos.
+
+
+3. Dado uma matriz A e um determinado valor, procure se este valor existe na
+matriz A. Em caso positivo, retorne a posição desse valor na matriz.
+
+
+4. Construa um algoritmo em Python que, para um grupo de 50 valores inteiros,
+determine:
+a. A soma dos números positivos.
+b. A soma dos números negativos.
+
+
+5. Escreva um algoritmo em Python que permita a leitura da idade de 10 pessoas
+e armazene as idades lidas em um vetor. Após isso, pergunte a idade de uma
+pessoa e verifique se alguma das outras pessoas possui a mesma idade.
+Escreva a mensagem ACHEI ou NÃO ACHEI.
+
+
+6. Uma rainha requisitou os serviços de um monge e disse-lhe que pagaria
+qualquer preço. O monge, necessitando de alimentos, indagou à rainha sobre
+o pagamento, se poderia ser feito com grãos de trigo dispostos em um
+tabuleiro de xadrez (que possui 64 casas), de tal forma que o primeiro quadro
+deveria conter apenas um grão e os quadros subsequentes, o dobro do
+quadro anterior. Crie um algoritmo em pseudocódigo para imprimir na tela as
+posições do tabuleiro de xadrez com a quantidade de grãos para cada célula e
+calcule (e imprima) o total de grãos que o monge recebeu.
