@@ -132,3 +132,19 @@ operação:
 a. Se i=1 escrever o valor do resultado da operação de a+b
 b. Se i=2 escrever o valor do resultado da operação de a-b
 c. Se i=3 escrever o valor do resultado da operação de a*b
+
+
+## Lista 03
+
+### Questões de FOR
+
+1. Faça um programa que receba as notas (n1, n2, n3) de 10 alunos e calcule a
+média de cada aluno<br/>
+a. Melhore o programa anterior, mostre ao usuário a maior e a menor
+média da turma<br/>
+b. Assumindo que a média de aprovação é 7.0, calcule o percentual de
+aprovados
+
+
+2. Faça um algoritmo que mostre os elementos de uma PA até o n-ésimo termo
+(usuário entra com a1, n e r)
