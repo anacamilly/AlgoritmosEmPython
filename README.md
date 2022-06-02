@@ -63,3 +63,72 @@ ganharem.
 
 
 ## Lista 02
+1. Uma empresa concedeu aos seus funcionários um reajuste de acordo com as
+faixas salariais apresentadas na tabela. Elabore um programa que tenha como
+entrada o valor do salário atual e forneça como resposta o valor atualizado do
+salário e o aumento salarial que o funcionário obteve.
+<table>
+<tr>
+    <td>Faixa salarial</td>
+    <td>Reajuste</td>
+</tr>
+<tr>
+    <td>Menor do que R$1500,00</td>
+    <td>25%</td>
+</tr>
+<tr>
+    <td>Maior ou igual a R$1500,00 até R$3200,00</td>
+    <td>10%</td>
+</tr>
+<tr>
+    <td>Maior ou igual a R$3200,00</td>
+    <td>5%</td>
+</tr>
+</table>
+
+
+2. Dado um número inteiro, escreva um programa que determine se este
+número é par ou ímpar.
+
+
+3. Elabore um programa que dado o valor de x calcule a f(x) neste ponto, sendo
+f(x) definida por: <br/>
+f(x) = { 2x + 4   (Se x é par, incluindo 0)<br/>
+f(x) = { x + 1 (Se x é ímpar)
+
+
+4. Faça um programa que a partir do sexo e da altura de uma pessoa, calcule e
+informe o seu peso ideal, utilizando as seguintes fórmulas:
+Masculino : (72, 7 ∗ Altura) − 58
+Feminino : (62, 1 ∗ Altura) − 44, 7
+
+
+5. Escreva um programa em que o usuário entra com o código do produto e a
+quantidade de produtos, e o programa retorna o valor a ser pago. Indique
+também se o código do produto for inválido.
+
+<table>
+<tr>
+    <td>Código</td>
+    <td>Preço Unitário</td>
+</tr>
+<tr>
+    <td>1</td>
+    <td>R$3,50</td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>R$5,10</td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>R$3,25</td>
+</tr>
+</table>
+
+
+7. Faça um programa que dado uma entrada inteira a, b e i realize a seguinte
+operação:
+a. Se i=1 escrever o valor do resultado da operação de a+b
+b. Se i=2 escrever o valor do resultado da operação de a-b
+c. Se i=3 escrever o valor do resultado da operação de a*b
