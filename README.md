@@ -148,3 +148,32 @@ aprovados
 
 2. Faça um algoritmo que mostre os elementos de uma PA até o n-ésimo termo
 (usuário entra com a1, n e r)
+
+
+3. Faça um programa que calcule o fatorial de um número
+
+
+4. Faça um programa que imprima os N termos da sequência de Fibonacci (0, 1,
+1, 2, 3, 5, 8, 13, 21, ...)<br/>
+Fib(n) = Fib(n-1) + Fib(n-2) Fib(0) = 0 e Fib(1) = 1
+
+
+5. Escrever um algoritmo que leia 20 valores para uma variável n e, para cada um
+deles, calcule a tabuada de 1 até n. Mostre a tabuada na forma:
+
+
+### Questões de WHILE
+6. Chico tem 1,50m e cresce 2 centímetros por ano, enquanto Juca tem 1,10m e
+cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima
+quantos anos serão necessários para que Juca seja maior que Chico.
+
+
+7. Faça um algoritmo que leia vários números e informe quantos desses
+números digitados estão entre 100 e 200. Quando o valor 0 (zero) for lido o
+algoritmo deverá cessar sua execução.
+
+
+8. Faça um algoritmo em que o usuário informa um número e o algoritmo
+verifica se ele é um número triangular. Obs.: Um número é triangular quando
+ele é o resultado do produto de três números consecutivos. Exemplo: 24 = 2 x 3
+x 4.
